@@ -1,0 +1,29 @@
+﻿
+Microsoft Visual Studio Solution File, Format Version 11.00
+# Visual Studio 2010
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "VirtualCinema", "Assembly-CSharp.csproj", "{EB8D2D31-F476-4F05-330F-4EF28416D08A}"
+EndProject
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "VirtualCinema", "Assembly-CSharp-Editor.csproj", "{5DF0DC6B-6402-42ED-2442-608FCF8121CD}"
+EndProject
+Global
+	GlobalSection(SolutionConfigurationPlatforms) = preSolution
+		Debug|Any CPU = Debug|Any CPU
+		Release|Any CPU = Release|Any CPU
+	EndGlobalSection
+	GlobalSection(ProjectConfigurationPlatforms) = postSolution
+		{EB8D2D31-F476-4F05-330F-4EF28416D08A}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{EB8D2D31-F476-4F05-330F-4EF28416D08A}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{EB8D2D31-F476-4F05-330F-4EF28416D08A}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{EB8D2D31-F476-4F05-330F-4EF28416D08A}.Release|Any CPU.Build.0 = Release|Any CPU
+		{5DF0DC6B-6402-42ED-2442-608FCF8121CD}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{5DF0DC6B-6402-42ED-2442-608FCF8121CD}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{5DF0DC6B-6402-42ED-2442-608FCF8121CD}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{5DF0DC6B-6402-42ED-2442-608FCF8121CD}.Release|Any CPU.Build.0 = Release|Any CPU
+	EndGlobalSection
+	GlobalSection(SolutionProperties) = preSolution
+		HideSolutionNode = FALSE
+	EndGlobalSection
+	GlobalSection(MonoDevelopProperties) = preSolution
+		StartupItem = Assembly-CSharp.csproj
+	EndGlobalSection
+EndGlobal
